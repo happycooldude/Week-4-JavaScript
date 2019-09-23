@@ -27,12 +27,12 @@ if (antwoord == true){
     if (antwoord == true){
       alert("U heeft gekozen voor Bleu de Rochbaron");
     } else{
-      alert("U heeft gekozen voor Foume d'Ambert");
+      alert("U heeft gekozen voor Fourme d'Ambert");
     }
     	} else{
     antwoord = (confirm("heeft de kaas een korst?"));
       if (antwoord == true){
-      alert("U heeft gekozen voor Camenbert");
+      alert("U heeft gekozen voor Camembert");
     }   else{
       alert("U heeft gekozen voor Mozzarella");
     }
